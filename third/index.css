@@ -1,0 +1,41 @@
+.same{
+   height: 125px;
+   width:100%;
+   display: block;
+}
+.mini{
+    height:100px;
+    background: lightgrey;
+    width:100px;
+    position: relative;
+    bottom :-10px;
+    left:+30px;
+    
+}
+body{
+    margin :0;
+    padding:0;
+   height:100%;
+   width : 100%;
+  
+}
+
+.color-strip1{
+  background-color: darksalmon;
+}
+.color-strip2
+{
+   background-color: indianred;
+}
+.color-strip3{
+  background: lightcoral;
+}
+.color-strip4{
+ background: lightpink;
+}
+.color-strip5{
+    background: lightseagreen;
+}
+.text-box {
+    padding:25px;
+}

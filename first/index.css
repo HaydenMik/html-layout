@@ -1,0 +1,48 @@
+body{
+    height : 100vh;
+    width:100vw;
+}
+
+header{
+background-color: cadetblue;
+height: 15vh;
+
+padding: 0px;
+margin: 0px;
+}
+.bodyDiv{
+    display: block;
+    padding: 0px;
+    margin: auto;
+    margin-top:0;
+    width:100vw;
+    height: 100%;
+    background-color: darkgray;
+}
+p{
+    margin:0px;
+}
+.outerBox{
+    display: block;
+    padding: 0px;
+    margin: auto;
+    margin-top:0;
+    width:80vw;
+    height: 100%;
+    background-color: cadetblue;
+}
+.myBox{
+    display: block;
+    padding: 0px;
+    margin: auto;
+    margin-top:0;
+    width:100%;
+    height: 70vh;
+    background-color: darkseagreen;
+}
+
+
+body{
+    padding :0px;
+    margin :0px;    
+}
